@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #336699;
+}
+
+a {
+  color: #336699;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  padding: 10px 20
